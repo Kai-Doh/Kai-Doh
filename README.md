@@ -1,3 +1,6 @@
 # 🖥️ Kaï Doh
 
-`IT|Filmmaker|Editor|Homelab addict`
+`IT | Filmmaker | Editor | Homelab addict`
+
+## Who am I?
+
